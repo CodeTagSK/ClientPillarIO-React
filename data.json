@@ -6,35 +6,35 @@
 		{
 			"title": "Weekly Training",
 			"text": "Get the inside view of what I did for training every week! FULL BREAKDOWN",
-			"cardImage": "./src/assets/card1.png"
+			"cardImage": "/card1.png"
 		},
 		{
 			"title": "Weekly Meals",
 			"text": "Each week I will document what I eat in an organised fashion",
-			"cardImage": "./src/assets/card2.png"
+			"cardImage": "/card2.png"
 		},
 		{
 			"title": "Daily Quote",
 			"text": "A quote that will empower you to achieve your dreams!",
-			"cardImage": "./src/assets/card3.png"
+			"cardImage": "/card3.png"
 		},
 		{
-			"cardImage": "./src/assets/card4.png"
+			"cardImage": "/card4.png"
 		},
 		{
 			"title": "J Johnson Jr on the moon",
 			"text": "Buy a collectible 1 of 1 NFT designed by me!",
-			"cardImage": "./src/assets/card5.png"
+			"cardImage": "/card5.png"
 		},
 		{
 			"title": "J Johnson Jr's Dream",
 			"text": "Buy a collectible 1 of 1 NFT designed by me!",
-			"cardImage": "./src/assets/card6.png"
+			"cardImage": "/card6.png"
 		},
 		{
 			"title": "Nike ZoomX Invincible Run Flyknit",
 			"text": "New Nike running Shoes",
-			"cardImage": "./src/assets/card7.png"
+			"cardImage": "/card7.png"
 		}
 	],
 	"cardSecondary": [
