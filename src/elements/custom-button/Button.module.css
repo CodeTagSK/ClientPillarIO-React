@@ -1,0 +1,35 @@
+.customContainer {
+	background-color: var(--primary);
+	min-width: 125px;
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+	padding-top: 0.75rem;
+	padding-bottom: 0.75rem;
+	font-size: 0.875rem;
+	line-height: 1.25rem;
+	outline: none;
+	border: none;
+	border-radius: 0.5rem;
+	cursor: pointer;
+}
+.rounded {
+	border-radius: 2rem;
+}
+.customContainer:hover {
+	-webkit-box-shadow: 2px 2px 10px #bdbdbd;
+	box-shadow: 2px 2px 10px #bdbdbd;
+}
+
+.btnChildren {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.btnChildren > span:first-child {
+	margin-right: 10px;
+	display: grid;
+}
+.btnChildren > span:last-child {
+	margin-left: 8px;
+}

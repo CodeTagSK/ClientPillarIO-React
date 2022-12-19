@@ -1,0 +1,33 @@
+.circleIconNoFill {
+	height: 45px;
+	width: 45px;
+	border-radius: 100%;
+	border: 2px solid var(--primary);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: all 0.3s ease;
+	cursor: pointer;
+}
+
+.circleIconNoFill:hover {
+	transform: translateY(-4px);
+}
+
+.circleIconFill {
+	height: 45px;
+	width: 45px;
+	border-radius: 100%;
+	background-color: var(--primary);
+	display: grid;
+	place-items: center;
+	transition: all 0.3s ease;
+	cursor: pointer;
+}
+
+.IconContainer {
+	width: 45px;
+	height: 45px;
+	display: grid;
+	place-items: center;
+}

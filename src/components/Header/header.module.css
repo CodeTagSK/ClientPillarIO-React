@@ -1,0 +1,25 @@
+.container {
+	display: flex;
+	justify-content: space-between;
+	position: fixed;
+	width: 100%;
+	max-width: 560px;
+	margin-top: 20px;
+}
+
+.beforeIcon {
+	color: var(--blue);
+}
+
+.button {
+	color: var(--blue);
+	font-weight: 600;
+}
+
+.circleIcon {
+	color: gray;
+	font-size: 12px;
+}
+.circleIcon:hover {
+	color: black;
+}

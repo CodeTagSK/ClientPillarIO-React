@@ -1,0 +1,96 @@
+{
+	"name": " J Johnson Jr",
+	"designation": "Created by different elements ⚛️ Athlete & CEO",
+	"location": "Raleigh, NC",
+	"card": [
+		{
+			"title": "Weekly Training",
+			"text": "Get the inside view of what I did for training every week! FULL BREAKDOWN"
+		},
+		{
+			"title": "Weekly Meals",
+			"text": "Each week I will document what I eat in an organised fashion"
+		},
+		{
+			"title": "Daily Quote",
+			"text": "A quote that will empower you to achieve your dreams!"
+		},
+		{
+			"title": "J Johnson Jr on the moon",
+			"text": "Buy a collectible 1 of 1 NFT designed by me!"
+		},
+		{
+			"title": "J Johnson Jr's Dream",
+			"text": "Buy a collectible 1 of 1 NFT designed by me!"
+		},
+		{
+			"title": "Nike ZoomX Invincible Run Flyknit",
+			"text": "New Nike running Shoes"
+		}
+	],
+	"cardSecondary": [
+		{
+			"title": "Speed Training Playlist",
+			"text": "Get faster for any sport with these speed tips "
+		},
+		{
+			"title": "Workout Vlog With Batman!",
+			"text": "Each week I will document what I eat in an organised fashion"
+		},
+		{
+			"title": "Racing people for $$$",
+			"text": ""
+		},
+		{
+			"title": "Speed Socks ⚡️",
+			"text": "Socks created for speed by speed"
+		},
+		{
+			"title": "High Frequency Highway",
+			"text": "My app with a library of positive frequencies"
+		},
+		{
+			"title": "Purium Super Food",
+			"text": "Organic whole food so you can perform at your best"
+		},
+		{
+			"title": "Make your own page like this for free with Pillar"
+		},
+		{
+			"title": "Famous Birthdays"
+		},
+		{
+			"title": "Wishing - King Han",
+			"audioTitle": "Wishing . King Han"
+		},
+		{
+			"title": "Stream my song!"
+		},
+		{
+			"title": "Wishing Music Video",
+			"videoUrl": "<iframe width='620' height='360' src='https://www.youtube.com/embed/bmJFOy5Y0FU' title='King Han Wishing Official music video' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+		},
+		{
+			"title": " Critique your running form 🏃",
+			"price": "$10"
+		},
+		{
+			"title": "Workout Vlog #2",
+			"videoUrl": "<iframe width='620' height='360' src='https://www.youtube.com/embed/kFpk7Ho7QEw' title='Explosiveness Record Broken @ Sports Academy! + Intense Workout' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+		},
+		{
+			"title": "YouTube",
+			"videoUrl": "<iframe width='620' height='360' src='https://www.youtube.com/embed/kQPBfyHxK1k' title='Recovery Tips To Run Faster - Recovery Vlog in California With TJ Graham' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+		},
+		{
+			"title": "Link On Pillar",
+			"text": "Have your link on my Pillar page. I have 15k+ visits",
+			"price": "$500"
+		},
+		{
+			"title": "Follow back",
+			"videoUrl": "I’ll follow you back on ig",
+			"price": "$222"
+		}
+	]
+}
