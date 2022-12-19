@@ -1,0 +1,22 @@
+.radioWrapper {
+	display: flex;
+}
+
+.input {
+	outline: none;
+	width: 20px !important;
+	height: 20px;
+}
+
+.label {
+	color: var(--primary);
+	margin-left: 10px;
+}
+
+@media (max-width: 600px) {
+	.label {
+		color: var(--primary);
+		margin-left: 5px;
+		font-size: 0.9rem;
+	}
+}

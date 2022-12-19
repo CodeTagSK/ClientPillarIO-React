@@ -2,9 +2,19 @@
 	display: grid;
 	grid-template-columns: repeat(10, 1fr);
 	gap: 10px;
-	height: auto;
+	margin-top: 1.2rem;
 }
 
 .icon {
 	color: var(--primary);
+}
+
+@media (max-width: 600px) {
+	.socialContainer {
+		display: grid;
+		grid-template-columns: repeat(5, 1fr);
+		gap: 10px;
+		padding: 0 10px;
+		place-items: center;
+	}
 }

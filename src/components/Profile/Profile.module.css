@@ -1,0 +1,32 @@
+.container {
+	text-align: center;
+	color: var(--primary);
+}
+
+.container > img {
+	width: 98px;
+	height: 98px;
+	border-radius: 50%;
+}
+
+.container > h1 {
+	color: var(--primary);
+	font-weight: 500;
+	font-size: 1.1rem;
+	line-height: 1rem;
+	font-weight: 700;
+	text-align: center;
+}
+
+.verifiedIcon {
+	color: var(--blue) !important;
+	margin-left: 4px;
+}
+
+.container > p {
+	margin-top: 0.4rem;
+}
+
+.container > p:last-child > svg {
+	padding-top: 6px;
+}

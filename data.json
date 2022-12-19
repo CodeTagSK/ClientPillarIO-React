@@ -5,27 +5,36 @@
 	"card": [
 		{
 			"title": "Weekly Training",
-			"text": "Get the inside view of what I did for training every week! FULL BREAKDOWN"
+			"text": "Get the inside view of what I did for training every week! FULL BREAKDOWN",
+			"cardImage": "./src/assets/card1.png"
 		},
 		{
 			"title": "Weekly Meals",
-			"text": "Each week I will document what I eat in an organised fashion"
+			"text": "Each week I will document what I eat in an organised fashion",
+			"cardImage": "./src/assets/card2.png"
 		},
 		{
 			"title": "Daily Quote",
-			"text": "A quote that will empower you to achieve your dreams!"
+			"text": "A quote that will empower you to achieve your dreams!",
+			"cardImage": "./src/assets/card3.png"
+		},
+		{
+			"cardImage": "./src/assets/card4.png"
 		},
 		{
 			"title": "J Johnson Jr on the moon",
-			"text": "Buy a collectible 1 of 1 NFT designed by me!"
+			"text": "Buy a collectible 1 of 1 NFT designed by me!",
+			"cardImage": "./src/assets/card5.png"
 		},
 		{
 			"title": "J Johnson Jr's Dream",
-			"text": "Buy a collectible 1 of 1 NFT designed by me!"
+			"text": "Buy a collectible 1 of 1 NFT designed by me!",
+			"cardImage": "./src/assets/card6.png"
 		},
 		{
 			"title": "Nike ZoomX Invincible Run Flyknit",
-			"text": "New Nike running Shoes"
+			"text": "New Nike running Shoes",
+			"cardImage": "./src/assets/card7.png"
 		}
 	],
 	"cardSecondary": [
@@ -35,11 +44,15 @@
 		},
 		{
 			"title": "Workout Vlog With Batman!",
-			"text": "Each week I will document what I eat in an organised fashion"
+			"text": "Each week I will document what I eat in an organised fashion",
+			"videoUrl": "https://www.youtube.com/embed/fJGDnvoLKFA",
+			"videoTitle": "Killer Workout With Coach Batman! Some Didn't Make It - Workout Vlog 3"
 		},
 		{
 			"title": "Racing people for $$$",
-			"text": ""
+			"text": "",
+			"videoUrl": "https://www.youtube.com/embed/RGj5K54dd58",
+			"videoTitle": "Racing People for $$$ At Venice Beach!"
 		},
 		{
 			"title": "Speed Socks ⚡️",
@@ -68,7 +81,8 @@
 		},
 		{
 			"title": "Wishing Music Video",
-			"videoUrl": "<iframe width='620' height='360' src='https://www.youtube.com/embed/bmJFOy5Y0FU' title='King Han Wishing Official music video' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+			"videoUrl": "https://www.youtube.com/embed/bmJFOy5Y0FU",
+			"videoTitle": "King Han Wishing Official music video"
 		},
 		{
 			"title": " Critique your running form 🏃",
@@ -76,11 +90,13 @@
 		},
 		{
 			"title": "Workout Vlog #2",
-			"videoUrl": "<iframe width='620' height='360' src='https://www.youtube.com/embed/kFpk7Ho7QEw' title='Explosiveness Record Broken @ Sports Academy! + Intense Workout' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+			"videoUrl": "https://www.youtube.com/embed/kFpk7Ho7QEw",
+			"videoTitle": "Explosiveness Record Broken @ Sports Academy! + Intense Workout"
 		},
 		{
 			"title": "YouTube",
-			"videoUrl": "<iframe width='620' height='360' src='https://www.youtube.com/embed/kQPBfyHxK1k' title='Recovery Tips To Run Faster - Recovery Vlog in California With TJ Graham' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+			"videoUrl": "https://www.youtube.com/embed/kQPBfyHxK1k",
+			"videoTitle": "Recovery Tips To Run Faster - Recovery Vlog in California With TJ Graham"
 		},
 		{
 			"title": "Link On Pillar",

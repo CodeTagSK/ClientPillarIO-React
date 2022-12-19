@@ -1,0 +1,33 @@
+.form {
+	text-align: center;
+	border: 2px solid var(--primary);
+	padding: 1.5rem;
+	border-radius: 20px;
+	width: 100%;
+	height: max-content;
+	color: var(--primary);
+}
+.form > h4 {
+	font-size: 1.25rem;
+	margin-bottom: 10px;
+	font-weight: 500;
+}
+.form > p {
+	font-weight: 300;
+	font-size: 1rem;
+	margin-bottom: 20px;
+}
+
+.radiosWrapper {
+	display: grid;
+	grid-template-columns: repeat(3, 0.25fr);
+	justify-content: center;
+	margin: 20px 0;
+}
+
+@media (max-width: 600px) {
+	.radiosWrapper {
+		grid-template-columns: 1fr 1fr;
+		row-gap: 40px;
+	}
+}

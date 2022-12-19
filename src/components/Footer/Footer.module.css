@@ -1,0 +1,13 @@
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: max-content;
+	color: var(--primary);
+	padding: 2rem 0;
+}
+
+.container > p > span {
+	color: rgba(255, 255, 255, 0.4);
+	margin-right: 4px;
+}
